@@ -2,7 +2,8 @@
 
 #### This is my simple implementation of Linked Lists data structure in python.
 
-To use just add this import to your file `from linked_list import LinkedList` and you can start using the data-structure.
+To use just add this import to your file `from linked_list import LinkedList` and place the linked_list package to the
+folder where you have your python src. 
 
 **Methods**:
 * get_size() - returns size of the linked list
